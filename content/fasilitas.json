@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Laboratorium Komputer",
+    "description": "Dilengkapi dengan 40 PC spesifikasi tinggi untuk pembelajaran informatika.",
+    "image": "https://res.cloudinary.com/dbi8w5ps2/image/upload/v1775487668/Oops_cjqpzv_thsxyq.jpg",
+    "colSpan": 2
+  },
+  {
+    "id": 2,
+    "title": "Perpustakaan Digital",
+    "description": "Koleksi ribuan e-book dan buku fisik dengan ruang baca yang nyaman.",
+    "image": "https://picsum.photos/seed/library/800/600",
+    "colSpan": 1
+  },
+  {
+    "id": 3,
+    "title": "Lapangan Olahraga",
+    "description": "Fasilitas olahraga lengkap untuk basket, voli, dan futsal.",
+    "image": "https://picsum.photos/seed/sports/800/600",
+    "colSpan": 1
+  },
+  {
+    "id": 4,
+    "title": "Ruang Kelas Interaktif",
+    "description": "Setiap kelas dilengkapi smart board dan AC.",
+    "image": "https://picsum.photos/seed/class/800/600",
+    "colSpan": 2
+  }
+]

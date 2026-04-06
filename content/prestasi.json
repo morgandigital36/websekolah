@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Medali Emas OSN Matematika",
+    "level": "Nasional",
+    "year": "2025",
+    "description": "Meraih medali emas pada Olimpiade Sains Nasional bidang Matematika tingkat SMP.",
+    "icon": "Trophy"
+  },
+  {
+    "id": 2,
+    "title": "Juara 1 Robotik Internasional",
+    "level": "Internasional",
+    "year": "2025",
+    "description": "Memenangkan kompetisi merakit dan memprogram robot di ajang Asian Youth Robotics.",
+    "icon": "Cpu"
+  },
+  {
+    "id": 3,
+    "title": "Sekolah Adiwiyata Mandiri",
+    "level": "Nasional",
+    "year": "2024",
+    "description": "Penghargaan tertinggi untuk sekolah berwawasan dan peduli lingkungan hidup.",
+    "icon": "Leaf"
+  },
+  {
+    "id": 4,
+    "title": "Juara Umum FLS2N",
+    "level": "Provinsi",
+    "year": "2025",
+    "description": "Mendominasi berbagai tangkai lomba seni pada Festival Lomba Seni Siswa Nasional.",
+    "icon": "Palette"
+  }
+]

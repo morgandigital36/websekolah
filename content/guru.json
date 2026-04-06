@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Budi Santoso, M.Pd.",
+    "subject": "Kepala Sekolah",
+    "image": "https://picsum.photos/seed/budi/400/400"
+  },
+  {
+    "id": 2,
+    "name": "Siti Aminah, S.Pd.",
+    "subject": "Matematika",
+    "image": "https://picsum.photos/seed/siti/400/400"
+  },
+  {
+    "id": 3,
+    "name": "Ahmad Fauzi, S.Kom.",
+    "subject": "Informatika",
+    "image": "https://picsum.photos/seed/ahmad/400/400"
+  },
+  {
+    "id": 4,
+    "name": "Ratna Sari, S.S.",
+    "subject": "Bahasa Inggris",
+    "image": "https://picsum.photos/seed/ratna/400/400"
+  }
+]
